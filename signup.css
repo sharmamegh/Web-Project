@@ -1,0 +1,94 @@
+/*body{
+    background-image: url("log.jpg");
+    background-size: 100vh 100vb;
+    font-family: 'Roboto Slab', serif;
+
+    align-items: center;
+    text-align:center;
+    font-size: 2vw;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    color:black;
+    text-align: center;
+    font-size: 9vw;
+    font-family: 'Gloock', serif;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+.name,.dob,.form-control, .mb-3{
+    font-size:1.5vw;
+}*/
+
+body{
+    background-image: url("lushGreenForest.jpg");
+    background-size: 100vh 100vb;
+    font-family: 'Roboto Slab', serif;   
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 10vw;
+    font-family: 'Gloock', serif;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+h3{
+    color:aliceblue;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 3vh; 
+    margin-bottom: 0;   
+}
+.block{
+    font-family: 'google-sans', serif;
+    text-align: center;
+    padding:0;
+    height:40vh;
+    width:50vw;
+    margin: auto;
+    
+    border-radius: 10px;
+    font-size: 1.5vw;
+    color:azure
+}
+.email,.pass{
+    background-color:white;
+    color: black;
+    font-size : 1.5vw;
+}
+.form-text{
+    opacity: 0.5;
+    margin-top: 0;
+}
+.name, .dob, .form-control, .fullname, .db{
+    color: whitesmoke;
+    text-align: center;
+    /*font-family: 'google-sans';*/
+    font-size:1.5vw;
+
+    font-family: 'Roboto Slab', serif;
+    /*padding:0;
+    height:40vh;
+    width:50vw;
+    margin: auto;
+    border-radius: 10px;
+    color:azure*/
+}
+.mb-3{
+    /*color: whitesmoke;*/
+    text-align: center;
+    /*font-family: 'google-sans';*/
+    font-size:1.5vw;
+
+    font-family: 'Roboto Slab', serif;
+    padding:0;
+    height:40vh;
+    width:50vw;
+    margin: auto;
+    border-radius: 10px;
+    color:azure
+}
+button{
+    align: center;
+}
